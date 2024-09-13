@@ -22,8 +22,11 @@ It made programming more accessible and efficient by allowing programmers to wri
 1960s: Term "Software Engineering" Coined
 The term "software engineering" is first used to describe the systematic approach to software development.
 Marked the beginning of treating software development as an engineering discipline, focusing on structured methodologies and process improvements.
+
 List and briefly explain the phases of the Software Development Life Cycle.
 
+The Software Development Life Cycle (SDLC) consists of several key phases that guide the creation of software. It starts with
+ planning where the project's scope, objectives, and resources are defined. Next is analysis, where requirements are gathered and documented. During the design phase, the software's architecture and detailed plans are created. The implementation phase involves writing and testing the code. After coding, the testing phase checks the software for defects and ensures it meets requirements. The deployment phase releases the software to users, while maintenance provides ongoing support and updates. Each phase is essential for delivering functional, reliable software.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
